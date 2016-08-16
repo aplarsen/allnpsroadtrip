@@ -1,0 +1,375 @@
+38.8895	-77.0352	Washington Monument
+37.5314	-85.7361	Abraham Lincoln Birthplace National Historical Park
+44.409286	-68.247501	Acadia National Park
+42.2564	-71.0114	Adams National Historical Park
+40.7144	-74.0044	African Burial Ground National Monument
+42.4164	-103.728	Agate Fossil Beds National Monument
+35.575	-101.684	Alibates Flint Quarries National Monument
+40.4542	-78.5403	Allegheny Portage Railroad National Historic Site
+29.4367	-101.05	Amistad National Recreation Area
+32.2064	-84.1233	Andersonville National Historic Site
+36.1583	-82.835	Andrew Johnson National Historic Site
+39.47	-77.74	Antietam National Battlefield
+46.8130074	-90.82055009	Apostle Islands National Lakeshore
+39.3254507	-77.740591	Appalachian National Scenic Trail - Headquarters in Harpers Ferry
+37.3786	-78.7964	Appomattox Court House National Historical Park
+38.6833	-109.567	Arches National Park
+34.0189	-91.3489	Arkansas Post National Memorial
+38.8812	-77.0726	Arlington House, The Robert E. Lee Memorial
+38.249304	-75.1556726	Assateague Island National Seashore
+36.8358	-107.998	Aztec Ruins National Monument
+43.75	-102.5	Badlands National Park
+35.7789	-106.321	Bandelier National Monument
+38.8923	-77.0037	Belmont-Paul Women's Equality National Monument
+38.0428	-103.429	Bent's Old Fort National Historic Site
+29.25	-103.25	Big Bend National Park
+25.8589	-81.0339	Big Cypress National Preserve
+45.6375	-113.644	Big Hole National Battlefield
+36.4865	-84.6985	Big South Fork National River and Recreation Area
+30.5467	-94.3403	Big Thicket National Preserve
+45.1944	-108.131	Bighorn Canyon National Recreation Area
+25.4644441	-80.33482229	Biscayne National Park
+38.5667	-107.717	Black Canyon of the Gunnison National Park
+41.8407	-71.4182	Blackstone River Valley National Historical Park
+36.5186	-80.9358	Blue Ridge Parkway
+37.5417	-80.9992	Bluestone National Scenic River
+37.1233	-79.7658	Booker T. Washington National Monument
+42.36	-71.0647	Boston African American National Historic Site
+42.358464	-71.057456	Boston Harbor Islands National Recreation Area
+42.3743084	-71.0531196	Boston National Historical Park
+34.5061	-88.7289	Brices Cross Roads National Battlefield Site
+39.0381	-95.6764	Brown v. Board of Education National Historic Site
+37.6283	-112.168	Bryce Canyon National Park
+36.1781	-92.4261	Buffalo National River
+32.6731	-117.239	Cabrillo National Monument
+28.7675	-80.7769	Canaveral National Seashore
+31.6656	-93.0028	Cane River Creole National Historical Park
+36.1558471	-109.5633884	Canyon De Chelly National Monument
+38.1669	-109.76	Canyonlands National Park
+41.905595	-69.9786639	Cape Cod National Seashore
+35.3036	-75.5114	Cape Hatteras National Seashore
+34.6881783	-76.5265056	Cape Lookout National Seashore
+38.2	-111.167	Capitol Reef National Park
+36.7822	-103.97	Capulin Volcano National Monument
+35.2678	-82.4517	Carl Sandburg Home National Historic Site
+32.1753	-104.444	Carlsbad Caverns National Park
+38.91	-77.0242	Carter G. Woodson Home National Historic Site
+32.997	-111.532	Casa Grande Ruins National Monument
+29.8978	-81.3114	Castillo de San Marcos National Monument
+40.7036	-74.0169	Castle Clinton National Monument
+35.3333	-115.102	Castle Mountains National Monument
+39.6483	-77.4667	Catoctin Mountain Park
+37.6425	-112.849	Cedar Breaks National Monument
+39.1675	-78.3008	Cedar Creek and Belle Grove National Historical Park
+35.2273	-118.561	César E. Chávez National Monument
+36.06	-107.97	Chaco Culture National Historical Park
+31.7678	-106.454	Chamizal National Memorial
+34.2484866	-119.2665518	Channel Islands National Park
+32.8461	-79.8247	Charles Pinckney National Historic Site
+39.6897	-83.8911	Charles Young Buffalo Soldiers National Monument
+33.9872	-84.3247	Chattahoochee River National Recreation Area
+38.8997	-77.0578	Chesapeake and Ohio Canal National Historical Park
+34.94	-85.26	Chickamauga and Chattanooga National Military Park
+34.5006	-96.9722	Chickasaw National Recreation Area
+32.0057	-109.357	Chiricahua National Monument
+42.076	-113.702	City of Rocks National Reserve
+38.9669	-77.1408	Clara Barton National Historic Site
+37.2189	-76.5175	Colonial National Historical Park
+39.0425	-108.686	Colorado National Monument
+33.7833	-80.7833	Congaree National Park
+38.8908	-77.0444	Constitution Gardens
+31.3483	-110.272	Coronado National Memorial
+35.1367	-81.8181	Cowpens National Battlefield
+42.9118	-122.148	Crater Lake National Park
+43.4617	-113.563	Craters of the Moon National Monument
+43.461964	-113.561682	Craters of the Moon National Preserve
+36.6042	-83.6872	Cumberland Gap National Historical Park
+30.7206514	-81.5502114	Cumberland Island National Seashore
+38.4547	-107.327	Curecanti National Recreation Area
+41.2417	-81.5497	Cuyahoga Valley National Park
+39.7947	-84.0889	Dayton Aviation Heritage National Historical Park
+27.5239	-82.6444	De Soto National Memorial
+36.2419	-116.826	Death Valley National Park
+41.1538	-74.9139	Delaware Water Gap National Recreation Area
+37.6244	-119.084	Devils Postpile National Monument
+44.5905	-104.716	Devils Tower National Monument
+40.5333	-108.983	Dinosaur National Monument
+24.5625158	-81.7988752	Dry Tortugas National Park
+48.2183	-122.684	Ebey's Landing National Historical Reserve
+39.9617	-75.1503	Edgar Allan Poe National Historic Site
+43.0886	-91.1856	Effigy Mounds National Monument
+39.7933	-77.2633	Eisenhower National Historic Site
+34.8772	-108.051	El Malpais National Monument
+35.0383	-108.353	El Morro National Monument
+41.7631	-73.8989	Eleanor Roosevelt National Historic Site
+37.8244	-122.03	Eugene O'Neill National Historic Site
+25.1409318	-80.92417239	Everglades National Park
+40.7072	-74.0103	Federal Hall National Memorial
+40.7552519	-73.0168644	Fire Island National Seashore
+40.7967	-81.3753	First Ladies National Historic Site
+39.6647	-75.5653	First State National Historical Park
+40.0561	-78.9072	Flight 93 National Memorial
+38.9137	-105.286	Florissant Fossil Beds National Monument
+38.8967	-77.0258	Ford's Theatre National Historic Site
+32.1461	-109.436	Fort Bowie National Historic Site
+30.3869	-81.5006	Fort Caroline National Memorial
+30.5958	-103.926	Fort Davis National Historic Site
+36.4825	-87.8628	Fort Donelson National Battlefield
+31.2239	-81.3933	Fort Frederica National Monument
+42.2092	-104.536	Fort Laramie National Historic Site
+38.1567	-99.2267	Fort Larned National Historic Site
+29.7153	-81.2392	Fort Matanzas National Monument
+39.2631	-76.58	Fort McHenry National Monument and Historic Shrine
+37.0036	-76.3075	Fort Monroe National Monument
+39.8167	-79.5997	Fort Necessity National Battlefield
+37.8106	-122.477	Fort Point National Historic Site
+32.0272	-80.8903	Fort Pulaski National Monument
+35.9386	-75.71	Fort Raleigh National Historic Site
+37.8439	-94.7047	Fort Scott National Historic Site
+35.3433	-94.4228	Fort Smith National Historic Site
+43.2106	-75.4553	Fort Stanwix National Monument
+32.7522	-79.8747	Fort Sumter National Monument
+35.9073	-105.012	Fort Union National Monument
+47.9994	-104.041	Fort Union Trading Post National Historic Site
+45.6254	-122.658	Fort Vancouver National Historic Site
+38.7108	-77.0331	Fort Washington Park
+41.8644	-110.776	Fossil Butte National Monument
+38.8839	-77.0444	Franklin Delano Roosevelt Memorial
+38.8633	-76.9853	Frederick Douglass National Historic Site
+42.325	-71.1322	Frederick Law Olmsted National Historic Site
+38.2931	-77.4692	Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park
+39.7778	-79.9292	Friendship Hill National Historic Site
+40.454	-73.997	Gateway National Recreation Area
+38.22	-80.89	Gauley River National Recreation Area
+40.8134	-73.963	General Grant National Memorial
+38.6792	-87.5356	George Rogers Clark National Historical Park
+38.1861	-76.9306	George Washington Birthplace National Monument
+36.9864	-94.3542	George Washington Carver National Monument
+38.7113	-77.0862	George Washington Memorial Parkway
+39.8086	-77.2367	Gettysburg National Military Park
+33.2272	-108.272	Gila Cliff Dwellings National Monument
+48.6967	-113.718	Glacier National Park
+36.9936	-111.487	Glen Canyon National Recreation Area
+37.7833	-122.467	Golden Gate National Recreation Area
+41.6205	-112.547	Golden Spike National Historic Site
+40.7010453	-74.0116878	Governors Island National Monument
+36.0553	-112.122	Grand Canyon National Park
+47.9853	-89.7492	Grand Portage National Monument
+43.8333	-110.701	Grand Teton National Park
+46.4083	-112.739	Grant-Kohrs Ranch National Historic Site
+39.0058	-114.22	Great Basin National Park
+39.3042	-74.6497	Great Egg Harbor Scenic and Recreational River
+37.7329	-105.512	Great Sand Dunes National Park
+37.7441435	-105.506865	Great Sand Dunes National Preserve
+35.6833	-83.5333	Great Smoky Mountains National Park
+38.9892	-76.8983	Greenbelt Park
+31.9167	-104.867	Guadalupe Mountains National Park
+36.1314	-79.8464	Guilford Courthouse National Military Park
+30.3644	-86.9675	Gulf Islands National Seashore
+42.7903	-114.945	Hagerman Fossil Beds National Monument
+40.8214	-73.9472	Hamilton Grange National Memorial
+39.4161	-76.5875	Hampton National Historic Site
+39.3228	-77.7297	Harpers Ferry National Historical Park
+38.5664	-76.0769	Harriet Tubman Underground Railroad National Historical Park
+38.9021	-94.5322	Harry S Truman National Historic Site
+41.6686	-91.3481	Herbert Hoover National Historic Site
+33.1834	-111.934	Hohokam Pima National Monument
+41.7672	-73.9356	Home of Franklin D. Roosevelt National Historic Site
+40.2853	-96.8219	Homestead National Monument of America
+39.3758	-83.0064	Hopewell Culture National Historical Park
+40.1986	-75.7756	Hopewell Furnace National Historic Site
+32.9708	-85.7383	Horseshoe Bend National Military Park
+34.5136	-93.0536	Hot Springs National Park
+37.3839	-109.077	Hovenweep National Monument
+35.7256	-109.593	Hubbell Trading Post National Historic Site
+39.9478	-75.1481	Independence National Historical Park
+41.6481	-87.1081	Indiana Dunes National Lakeshore
+47.1227503	-88.5641117	Isle Royale National Park
+41.6622	-81.3472	James A. Garfield National Historic Site
+29.9425	-89.9942	Jean Lafitte National Historical Park and Preserve
+38.6246	-90.185	Jefferson National Expansion Memorial
+43.7294	-103.829	Jewel Cave National Monument
+32.0304	-84.4182	Jimmy Carter National Historic Site
+44.1047	-110.693	John D. Rockefeller, Jr. Memorial Parkway
+44.5558	-119.645	John Day Fossil Beds National Monument
+42.3458	-71.1244	John Fitzgerald Kennedy National Historic Site
+37.9913	-122.133	John Muir National Historic Site
+40.3456	-78.7786	Johnstown Flood National Memorial
+33.7884	-115.898	Joshua Tree National Park
+33.9831	-84.5781	Kennesaw Mountain National Battlefield Park
+47.1564	-88.5636	Keweenaw National Historical Park
+36.7893	-118.673	Kings Canyon National Park
+35.1378	-81.3894	Kings Mountain National Military Park
+47.5993706	-122.3319748	Klondike Gold Rush National Historical Park - Washington Unit
+47.3542	-101.386	Knife River Indian Villages National Historic Site
+38.8878	-77.0472	Korean War Veterans Memorial
+47.8380041	-120.0237	Lake Chelan National Recreation Area
+36.0097	-114.797	Lake Mead National Recreation Area
+35.7147	-101.553	Lake Meredith National Recreation Area
+48.1074	-118.213	Lake Roosevelt National Recreation Area
+40.4877	-121.505	Lassen Volcanic National Park
+41.7139	-121.508	Lava Beds National Monument
+46.1336	-123.878	Lewis and Clark National Historical Park
+38.1183	-86.9969	Lincoln Boyhood National Memorial
+39.7972	-89.645	Lincoln Home National Historic Site
+38.8893	-77.0501	Lincoln Memorial
+45.5703	-107.427	Little Bighorn Battlefield National Monument
+34.4406	-85.5956	Little River Canyon National Preserve
+34.7367	-92.2986	Little Rock Central High School National Historic Site
+42.3767	-71.1264	Longfellow House-Washington's Headquarters National Historic Site
+42.6467	-71.3103	Lowell National Historical Park
+30.2408	-98.6242	Lyndon B. Johnson National Historical Park
+38.8786	-77.0514	Lyndon Baines Johnson Memorial Grove on the Potomac
+37.5478	-77.4381	Maggie L. Walker National Historic Site
+37.1833	-86.1	Mammoth Cave National Park
+38.8128	-77.5217	Manassas National Battlefield Park
+35.8439	-106.289	Manhattan Project National Historical Park - New Mexico Unit
+36.7283	-118.154	Manzanar National Historic Site
+43.6312	-72.5294	Marsh-Billings-Rockefeller National Historical Park
+33.755	-84.3722	Martin Luther King Jr. National Historic Site
+38.8861	-77.0442	Martin Luther King, Jr. Memorial
+42.3697	-73.7042	Martin Van Buren National Historic Site
+38.9078	-77.0303	Mary McLeod Bethune Council House National Historic Site
+37.1838	-108.489	Mesa Verde National Park
+41.1538	-74.9139	Middle Delaware National Scenic River
+42.679	-114.244	Minidoka National Historic Site
+42.4531	-71.2986	Minute Man National Historical Park
+43.9311	-102.161	Minuteman Missile National Historic Site
+44.8733	-93.0188	Mississippi National River and Recreation Area
+42.8625	-97.3928	Missouri National Recreational River
+34.8833	-115.717	Mojave National Preserve
+39.3712	-77.3921	Monocacy National Battlefield
+34.6131	-111.84	Montezuma Castle National Monument
+34.4581	-78.1094	Moores Creek National Battlefield
+40.7669	-74.5286	Morristown National Historical Park
+46.7558435	-122.1207775	Mount Rainier National Park
+43.8789	-103.46	Mount Rushmore National Memorial
+37.8919	-122.571	Muir Woods National Monument
+31.5433	-91.3831	Natchez National Historical Park
+34.6677	-88.0883	Natchez Trace National Scenic Trail
+31.5455	-91.3695	Natchez Trace Parkway
+38.8897	-77.0367	National Capital Parks
+38.89	-77.0236	National Mall
+37.6014	-110.014	Natural Bridges National Monument
+36.6783	-110.541	Navajo National Monument
+41.6356	-70.9233	New Bedford Whaling National Historical Park
+29.9631	-90.0681	New Orleans Jazz National Historical Park
+37.9608	-81.0817	New River Gorge National River
+46.1419	-116.359	Nez Perce National Historical Park
+39.3908	-99.6175	Nicodemus National Historic Site
+34.1469	-82.0244	Ninety Six National Historic Site
+42.8833	-100.317	Niobrara National Scenic River
+48.6998733	-121.0198366	North Cascades National Park
+35.9187	-85.113	Obed Wild and Scenic River
+32.8367	-83.6083	Ocmulgee National Monument
+47.9693	-123.499	Olympic National Park
+42.0956	-123.406	Oregon Caves National Monument and Preserve
+31.954	-112.801	Organ Pipe Cactus National Monument
+37.1907	-91.2763	Ozark National Scenic Riverways
+27.4241558	-97.29918359	Padre Island National Seashore
+26.0214	-97.4806	Palo Alto Battlefield National Historical Park
+40.9162	-74.1816	Paterson Great Falls National Historical Park
+36.4680809	-93.9571419	Pea Ridge National Military Park
+35.55	-105.689	Pecos National Historical Park
+38.8936	-77.0239	Pennsylvania Avenue National Historic Site
+41.586774	-82.83703	Perry's Victory and International Peace Memorial
+37.2194	-77.3614	Petersburg National Battlefield
+35.0881	-109.806	Petrified Forest National Park
+35.1358	-106.762	Petroglyph National Monument
+46.5622	-86.3125	Pictured Rocks National Lakeshore
+36.4869	-121.167	Pinnacles National Park
+36.8619	-112.737	Pipe Spring National Monument
+44.0133	-96.325	Pipestone National Monument
+38.6786	-77.0928	Piscataway Park
+38.0439756	-122.7983975	Point Reyes National Seashore
+38.0575	-122.03	Port Chicago Naval Magazine National Memorial
+38.904	-77.0586	Potomac Heritage National Scenic Trail
+32.6367	-91.4114	Poverty Point National Monument
+33.6672	-93.5965	President William Jefferson Clinton Birthplace Home National Historic Site
+38.5853	-77.3797	Prince William Forest Park
+41.6972	-87.6094	Pullman National Monument
+36.9955412	-111.4865069	Rainbow Bridge National Monument
+41.3	-124	Redwood National Park
+37.4292	-77.3736	Richmond National Battlefield Park
+29.1833	-102.962	Rio Grande Wild and Scenic River
+41.9136	-83.3783	River Raisin National Battlefield Park
+38.9575	-77.045	Rock Creek Park
+40.3661923	-105.5605599	Rocky Mountain National Park
+41.8304	-71.4109	Roger Williams National Memorial
+37.9095	-122.357	Rosie the Riveter/World War II Home Front National Historical Park
+48.6731	-121.245	Ross Lake National Recreation Area
+34.9742	-85.8033	Russell Cave National Monument
+40.8856	-73.4975	Sagamore Hill National Historic Site
+32.1808847	-110.7380027	Saguaro National Park
+45.1283	-67.1333	Saint Croix Island International Historic Site
+45.3892	-92.6575	Saint Croix National Scenic Riverway
+40.8928	-73.8258	Saint Paul's Church National Historic Site
+43.5008	-72.3681	Saint-Gaudens National Historic Site
+42.5206	-70.8872	Salem Maritime National Historic Site
+34.2597	-106.09	Salinas Pueblo Missions National Monument
+29.3617	-98.4803	San Antonio Missions National Historical Park
+37.8064	-122.424	San Francisco Maritime National Historical Park
+48.51260449	-122.6126718	San Juan Island National Historical Park
+38.5408	-102.529	Sand Creek Massacre National Historic Site
+34.1039	-118.603	Santa Monica Mountains National Recreation Area
+42.9989	-73.6375	Saratoga National Historical Park
+42.4678	-71.0089	Saugus Iron Works National Historic Site
+41.8356	-103.701	Scotts Bluff National Monument
+36.5647	-118.773	Sequoia National Park
+38.5333	-78.35	Shenandoah National Park
+35.1525	-88.3231	Shiloh National Military Park
+44.9131	-86.0203	Sleeping Bear Dunes National Lakeshore
+42.1081	-72.5817	Springfield Armory National Historic Site
+40.6941	-74.043	Statue of Liberty National Monument
+41.4073	-75.6713	Steamtown National Historic Site
+35.8808	-86.435	Stones River National Battlefield
+40.7338	-74.0022	Stonewall National Monument
+35.3656	-111.501	Sunset Crater Volcano National Monument
+38.4328	-96.5589	Tallgrass Prairie National Preserve
+39.9433	-75.1475	Thaddeus Kosciuszko National Memorial
+40.7389	-73.9897	Theodore Roosevelt Birthplace National Historic Site
+42.9015	-78.8724	Theodore Roosevelt Inaugural National Historic Site
+38.8972	-77.0642	Theodore Roosevelt Island
+46.9667	-103.45	Theodore Roosevelt National Park
+40.7869	-74.2378	Thomas Edison National Historical Park
+38.8814	-77.0369	Thomas Jefferson Memorial
+38.5312	-77.0393	Thomas Stone National Historic Site
+40.4406	-111.709	Timpanogos Cave National Monument
+30.4545	-81.4499	Timucuan Ecological and Historic Preserve
+33.6569	-111.094	Tonto National Monument
+36.3208	-115.266	Tule Springs Fossil Beds National Monument
+31.5681	-111.051	Tumacácori National Historical Park
+34.2553	-88.7372	Tupelo National Battlefield
+32.4592	-85.68	Tuskegee Airmen National Historic Site
+32.4302	-85.7077	Tuskegee Institute National Historic Site
+34.7709	-112.026	Tuzigoot National Monument
+38.5511	-90.3519	Ulysses S. Grant National Historic Site
+41.6401	-75.0586	Upper Delaware Scenic and Recreational River
+35.9	-106.533	Valles Caldera National Preserve
+40.0969	-75.4389	Valley Forge National Historical Park
+41.7961	-73.9419	Vanderbilt Mansion National Historic Site
+32.3442	-90.8517	Vicksburg National Military Park
+38.8911	-77.0478	Vietnam Veterans Memorial
+48.444309	-93.0299969	Voyageurs National Park
+31.606	-97.175	Waco Mammoth National Monument
+35.1717	-111.51	Walnut Canyon National Monument
+35.6175	-99.7003	Washita Battlefield National Historic Site
+41.2581	-73.4547	Weir Farm National Historic Site
+40.6253	-122.559	Whiskeytown-Shasta-Trinity National Recreation Area
+38.8977	-77.0366	White House
+32.7797	-106.172	White Sands National Monument
+46.04	-118.461	Whitman Mission National Historic Site
+39.1197	-84.5086	William Howard Taft National Historic Site
+37.1156	-93.42	Wilson's Creek National Battlefield
+43.5564	-103.479	Wind Cave National Park
+38.9369	-77.2619	Wolf Trap National Park for the Performing Arts
+42.9108	-76.8014	Women's Rights National Historical Park
+38.9072	-77.0369	World War I Memorial
+38.8894	-77.0405	World War II Memorial
+41.9510383	-121.4766995	World War II Valor in the Pacific National Monument - California Unit
+36.021	-75.6732	Wright Brothers National Memorial
+35.5656	-111.387	Wupatki National Monument
+44.4569914	-110.8351483	Yellowstone National Park
+37.7452	-119.598	Yosemite National Park
+37.2503	-108.686	Yucca House National Monument
+37.2026	-112.988	Zion National Park
