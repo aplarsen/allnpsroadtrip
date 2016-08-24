@@ -373,3 +373,4 @@
 37.7452	-119.598	Yosemite National Park
 37.2503	-108.686	Yucca House National Monument
 37.2026	-112.988	Zion National Park
+45.9704	-68.6193	Katahdin Woods and Waters National Monument
