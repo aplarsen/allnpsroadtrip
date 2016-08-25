@@ -32,7 +32,7 @@ for i in range(0, len(optimal_route)-1):
         #write new metadata        
         metadatum = {};
         metadatum['start'] = {"i": i+1, "n": optimal_route[i]['n']}
-        metadatum['file'] = "code/segment" + str(filecounter) + ".txt";
+        metadatum['file'] = "code/raw/segment" + str(filecounter) + ".txt";
     
     #get routes from Google
     routes = mymaps.directions(optimal_route[i]['l'], optimal_route[i+1]['l']);    
