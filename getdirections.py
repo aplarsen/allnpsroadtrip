@@ -67,7 +67,7 @@ metadatum['end'] = {"i": len(optimal_route), "n": optimal_route[ len(optimal_rou
 metadata.append(metadatum);
 
 m = open("metadata.json", "w");
-json.dump(metadata, m);
+json.dump(metadata, m, indent=4);
 m.close();
 
 #close all file    

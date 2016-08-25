@@ -19,16 +19,6 @@ for line in neos_output:
     if len(data) > 2:
         route.append( parks[int(data[0])] );
 
-json.dump(route, optimal_route);
+json.dump(route, optimal_route, indent=4);
 
 optimal_route.close();
-
-'''
-r.close();
-
-w.write( str(len(lines)) + "\n");
-for line in lines:    
-    w.write( line[0] + " " + line[1] + "\n");
-
-w.close();
-'''
