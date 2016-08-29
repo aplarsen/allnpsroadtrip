@@ -2,7 +2,7 @@ import json
 import googlemaps
 
 #instantiate Google Maps object
-with open('apikey.txt', 'r') as apikeyfile:
+with open('..\apikey.txt', 'r') as apikeyfile:
 	apikey=apikeyfile.read();	
 mymaps = googlemaps.Client(apikey);
 
