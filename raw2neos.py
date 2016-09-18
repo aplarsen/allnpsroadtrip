@@ -12,6 +12,6 @@ r.close();
 
 w.write( str(len(lines)) + "\n");
 for line in lines:    
-    w.write( line[0] + " " + line[1] + "\n");
+    w.write( str(float(line[0])*1000) + " " + str(float(line[1])*1000) + "\n");
 
 w.close();
