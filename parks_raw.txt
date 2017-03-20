@@ -29,7 +29,7 @@
 30.5467	-94.3403	Big Thicket National Preserve
 45.1944	-108.131	Bighorn Canyon National Recreation Area
 25.4644441	-80.33482229	Biscayne National Park
-38.5667	-107.717	Black Canyon of the Gunnison National Park
+38.541208	-107.693862	Black Canyon of the Gunnison National Park
 41.8407	-71.4182	Blackstone River Valley National Historical Park
 36.5186	-80.9358	Blue Ridge Parkway
 37.5417	-80.9992	Bluestone National Scenic River
@@ -155,7 +155,7 @@
 40.7010453	-74.0116878	Governors Island National Monument
 36.0553	-112.122	Grand Canyon National Park
 47.9853	-89.7492	Grand Portage National Monument
-43.8333	-110.701	Grand Teton National Park
+43.655435	-110.717200	Grand Teton National Park
 46.4083	-112.739	Grant-Kohrs Ranch National Historic Site
 39.0058	-114.22	Great Basin National Park
 39.3042	-74.6497	Great Egg Harbor Scenic and Recreational River
@@ -374,3 +374,7 @@
 37.2503	-108.686	Yucca House National Monument
 37.2026	-112.988	Zion National Park
 45.9704	-68.6193	Katahdin Woods and Waters National Monument
+42.9117	-76.565	Harriet Tubman National Historical Park
+33.5152	-86.8147	Birmingham Civil Rights National Monument
+33.6581	-85.8312	Freedom Riders National Monument
+32.3896	-80.5757	Reconstruction Era National Monument
