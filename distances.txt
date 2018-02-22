@@ -258,8 +258,8 @@ trip	from	to	distance(meters)
 257	Wilson's Creek National Battlefield	Buffalo National River	216878
 258	Buffalo National River	Ozark National Scenic Riverways	214698
 259	Ozark National Scenic Riverways	Ulysses S. Grant National Historic Site	230137
-260	Ulysses S. Grant National Historic Site	Jefferson National Expansion Memorial	20219
-261	Jefferson National Expansion Memorial	Lincoln Home National Historic Site	155366
+260	Ulysses S. Grant National Historic Site	Gateway Arch National Park	20219
+261	Gateway Arch National Park	Lincoln Home National Historic Site	155366
 262	Lincoln Home National Historic Site	Herbert Hoover National Historic Site	345918
 263	Herbert Hoover National Historic Site	Effigy Mounds National Monument	191476
 264	Effigy Mounds National Monument	Mississippi National River and Recreation Area	292617

@@ -187,7 +187,7 @@
 47.1227503	-88.5641117	Isle Royale National Park
 41.6622	-81.3472	James A. Garfield National Historic Site
 29.9425	-89.9942	Jean Lafitte National Historical Park and Preserve
-38.6246	-90.185	Jefferson National Expansion Memorial
+38.6246	-90.185	Gateway Arch National Park
 43.7294	-103.829	Jewel Cave National Monument
 32.0304	-84.4182	Jimmy Carter National Historic Site
 44.1047	-110.693	John D. Rockefeller, Jr. Memorial Parkway
