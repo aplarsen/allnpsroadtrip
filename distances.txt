@@ -1,380 +1,381 @@
 trip	from	to	distance(meters)
-1	Washington Monument	White House	1509
-2	White House	Ford's Theatre National Historic Site	1570
-3	Ford's Theatre National Historic Site	Pennsylvania Avenue National Historic Site	857
-4	Pennsylvania Avenue National Historic Site	National Mall	1026
-5	National Mall	Belmont-Paul Women's Equality National Monument	4142
-6	Belmont-Paul Women's Equality National Monument	Frederick Douglass National Historic Site	4464
-7	Frederick Douglass National Historic Site	Fort Washington Park	25538
-8	Fort Washington Park	George Washington Memorial Parkway	33590
-9	George Washington Memorial Parkway	Piscataway Park	43841
-10	Piscataway Park	Thomas Stone National Historic Site	19130
-11	Thomas Stone National Historic Site	George Washington Birthplace National Monument	65880
-12	George Washington Birthplace National Monument	Maggie L. Walker National Historic Site	115883
-13	Maggie L. Walker National Historic Site	Richmond National Battlefield Park	17946
-14	Richmond National Battlefield Park	Petersburg National Battlefield	33114
-15	Petersburg National Battlefield	Colonial National Historical Park	121817
-16	Colonial National Historical Park	Fort Monroe National Monument	43300
-17	Fort Monroe National Monument	Wright Brothers National Memorial	155315
-18	Wright Brothers National Memorial	Fort Raleigh National Historic Site	30278
-19	Fort Raleigh National Historic Site	Cape Hatteras National Seashore	84283
-20	Cape Hatteras National Seashore	Cape Lookout National Seashore	377681
-21	Cape Lookout National Seashore	Moores Creek National Battlefield	182334
-22	Moores Creek National Battlefield	Appomattox Court House National Historical Park	395026
-23	Appomattox Court House National Historical Park	Booker T. Washington National Monument	110800
-24	Booker T. Washington National Monument	Guilford Courthouse National Military Park	132525
-25	Guilford Courthouse National Military Park	Blue Ridge Parkway	142507
-26	Blue Ridge Parkway	Bluestone National Scenic River	163027
-27	Bluestone National Scenic River	New River Gorge National River	101015
-28	New River Gorge National River	Gauley River National Recreation Area	60623
-29	Gauley River National Recreation Area	Hopewell Culture National Historical Park	293946
-30	Hopewell Culture National Historical Park	Charles Young Buffalo Soldiers National Monument	92635
-31	Charles Young Buffalo Soldiers National Monument	Dayton Aviation Heritage National Historical Park	32194
-32	Dayton Aviation Heritage National Historical Park	William Howard Taft National Historic Site	94555
-33	William Howard Taft National Historic Site	Abraham Lincoln Birthplace National Historical Park	254966
-34	Abraham Lincoln Birthplace National Historical Park	Mammoth Cave National Park	72842
-35	Mammoth Cave National Park	Lincoln Boyhood National Memorial	179865
-36	Lincoln Boyhood National Memorial	George Rogers Clark National Historical Park	118592
-37	George Rogers Clark National Historical Park	Fort Donelson National Battlefield	279790
-38	Fort Donelson National Battlefield	Shiloh National Military Park	188707
-39	Shiloh National Military Park	Brices Cross Roads National Battlefield Site	94699
-40	Brices Cross Roads National Battlefield Site	Tupelo National Battlefield	34343
-41	Tupelo National Battlefield	Natchez Trace National Scenic Trail	86569
-42	Natchez Trace National Scenic Trail	Birmingham Civil Rights National Monument	224841
-43	Birmingham Civil Rights National Monument	Freedom Riders National Monument	102868
-44	Freedom Riders National Monument	Horseshoe Bend National Military Park	104866
-45	Horseshoe Bend National Military Park	Tuskegee Airmen National Historic Site	74000
-46	Tuskegee Airmen National Historic Site	Tuskegee Institute National Historic Site	6887
-47	Tuskegee Institute National Historic Site	Jimmy Carter National Historic Site	156403
-48	Jimmy Carter National Historic Site	Andersonville National Historic Site	39881
-49	Andersonville National Historic Site	Ocmulgee National Monument	105087
-50	Ocmulgee National Monument	Martin Luther King Jr. National Historic Site	140661
-51	Martin Luther King Jr. National Historic Site	Chattahoochee River National Recreation Area	33172
-52	Chattahoochee River National Recreation Area	Kennesaw Mountain National Battlefield Park	40889
-53	Kennesaw Mountain National Battlefield Park	Little River Canyon National Preserve	157933
-54	Little River Canyon National Preserve	Chickamauga and Chattanooga National Military Park	83094
-55	Chickamauga and Chattanooga National Military Park	Russell Cave National Monument	77291
-56	Russell Cave National Monument	Stones River National Battlefield	146093
-57	Stones River National Battlefield	Obed Wild and Scenic River	141915
-58	Obed Wild and Scenic River	Big South Fork National River and Recreation Area	101675
-59	Big South Fork National River and Recreation Area	Cumberland Gap National Historical Park	142803
-60	Cumberland Gap National Historical Park	Great Smoky Mountains National Park	159115
-61	Great Smoky Mountains National Park	Andrew Johnson National Historic Site	96881
-62	Andrew Johnson National Historic Site	Carl Sandburg Home National Historic Site	135340
-63	Carl Sandburg Home National Historic Site	Cowpens National Battlefield	80696
-64	Cowpens National Battlefield	Kings Mountain National Military Park	47623
-65	Kings Mountain National Military Park	Ninety Six National Historic Site	177573
-66	Ninety Six National Historic Site	Congaree National Park	161529
-67	Congaree National Park	Charles Pinckney National Historic Site	157262
-68	Charles Pinckney National Historic Site	Fort Sumter National Monument	16954
-69	Fort Sumter National Monument	Reconstruction Era National Monument	139489
-70	Reconstruction Era National Monument	Fort Pulaski National Monument	102694
-71	Fort Pulaski National Monument	Fort Frederica National Monument	163554
-72	Fort Frederica National Monument	Cumberland Island National Seashore	92490
-73	Cumberland Island National Seashore	Timucuan Ecological and Historic Preserve	85537
-74	Timucuan Ecological and Historic Preserve	Fort Caroline National Memorial	41089
-75	Fort Caroline National Memorial	Castillo de San Marcos National Monument	65081
-76	Castillo de San Marcos National Monument	Fort Matanzas National Monument	22845
-77	Fort Matanzas National Monument	Canaveral National Seashore	135479
-78	Canaveral National Seashore	Big Cypress National Preserve	460256
-79	Big Cypress National Preserve	Biscayne National Park	110546
-80	Biscayne National Park	Everglades National Park	91986
-81	Everglades National Park	Dry Tortugas National Park	278436
-82	Dry Tortugas National Park	De Soto National Memorial	635689
-83	De Soto National Memorial	Gulf Islands National Seashore	826997
-84	Gulf Islands National Seashore	Jean Lafitte National Historical Park and Preserve	351686
-85	Jean Lafitte National Historical Park and Preserve	New Orleans Jazz National Historical Park	9681
-86	New Orleans Jazz National Historical Park	Big Thicket National Preserve	492497
-87	Big Thicket National Preserve	Cane River Creole National Historical Park	233452
-88	Cane River Creole National Historical Park	Natchez National Historical Park	199788
-89	Natchez National Historical Park	Natchez Trace Parkway	3285
-90	Natchez Trace Parkway	Vicksburg National Military Park	118681
-91	Vicksburg National Military Park	Poverty Point National Monument	87518
-92	Poverty Point National Monument	Arkansas Post National Memorial	190166
-93	Arkansas Post National Memorial	Little Rock Central High School National Historic Site	159258
-94	Little Rock Central High School National Historic Site	Hot Springs National Park	82327
-95	Hot Springs National Park	President William Jefferson Clinton Birthplace Home National Historic Site	129088
-96	President William Jefferson Clinton Birthplace Home National Historic Site	Fort Smith National Historic Site	280897
-97	Fort Smith National Historic Site	Chickasaw National Recreation Area	328271
-98	Chickasaw National Recreation Area	Waco Mammoth National Monument	360857
-99	Waco Mammoth National Monument	Lyndon B. Johnson National Historical Park	257175
-100	Lyndon B. Johnson National Historical Park	San Antonio Missions National Historical Park	119552
-101	San Antonio Missions National Historical Park	Padre Island National Seashore	276738
-102	Padre Island National Seashore	Palo Alto Battlefield National Historical Park	291144
-103	Palo Alto Battlefield National Historical Park	Amistad National Recreation Area	626930
-104	Amistad National Recreation Area	Rio Grande Wild and Scenic River	405477
-105	Rio Grande Wild and Scenic River	Big Bend National Park	34649
-106	Big Bend National Park	Fort Davis National Historic Site	223857
-107	Fort Davis National Historic Site	Carlsbad Caverns National Park	290499
-108	Carlsbad Caverns National Park	Guadalupe Mountains National Park	68534
-109	Guadalupe Mountains National Park	Chamizal National Memorial	182330
-110	Chamizal National Memorial	White Sands National Monument	161703
-111	White Sands National Monument	Salinas Pueblo Missions National Monument	209079
-112	Salinas Pueblo Missions National Monument	Petroglyph National Monument	171106
-113	Petroglyph National Monument	Valles Caldera National Preserve	145916
-114	Valles Caldera National Preserve	Bandelier National Monument	39422
-115	Bandelier National Monument	Manhattan Project National Historical Park - New Mexico Unit	19548
-116	Manhattan Project National Historical Park - New Mexico Unit	Pecos National Historical Park	114337
-117	Pecos National Historical Park	Fort Union National Monument	114693
-118	Fort Union National Monument	Capulin Volcano National Monument	202315
-119	Capulin Volcano National Monument	Bent's Old Fort National Historic Site	213589
-120	Bent's Old Fort National Historic Site	Sand Creek Massacre National Historic Site	138317
-121	Sand Creek Massacre National Historic Site	Alibates Flint Quarries National Monument	409735
-122	Alibates Flint Quarries National Monument	Lake Meredith National Recreation Area	33800
-123	Lake Meredith National Recreation Area	Washita Battlefield National Historic Site	198835
-124	Washita Battlefield National Historic Site	Fort Larned National Historic Site	334529
-125	Fort Larned National Historic Site	Nicodemus National Historic Site	178997
-126	Nicodemus National Historic Site	Niobrara National Scenic River	495550
-127	Niobrara National Scenic River	Minuteman Missile National Historic Site	255977
-128	Minuteman Missile National Historic Site	Badlands National Park	85408
-129	Badlands National Park	Mount Rushmore National Memorial	109128
-130	Mount Rushmore National Memorial	Jewel Cave National Monument	51432
-131	Jewel Cave National Monument	Wind Cave National Park	51886
-132	Wind Cave National Park	Agate Fossil Beds National Monument	204312
-133	Agate Fossil Beds National Monument	Scotts Bluff National Monument	81177
-134	Scotts Bluff National Monument	Fort Laramie National Historic Site	92473
-135	Fort Laramie National Historic Site	Rocky Mountain National Park	347433
-136	Rocky Mountain National Park	Florissant Fossil Beds National Monument	280893
-137	Florissant Fossil Beds National Monument	Great Sand Dunes National Preserve	268231
-138	Great Sand Dunes National Preserve	Great Sand Dunes National Park	1510
-139	Great Sand Dunes National Park	Curecanti National Recreation Area	256103
-140	Curecanti National Recreation Area	Black Canyon of the Gunnison National Park	58581
-141	Black Canyon of the Gunnison National Park	Colorado National Monument	134871
-142	Colorado National Monument	Dinosaur National Monument	250571
-143	Dinosaur National Monument	Arches National Park	364837
-144	Arches National Park	Canyonlands National Park	140408
-145	Canyonlands National Park	Natural Bridges National Monument	182847
-146	Natural Bridges National Monument	Capitol Reef National Park	236890
-147	Capitol Reef National Park	Bryce Canyon National Park	209753
-148	Bryce Canyon National Park	Rainbow Bridge National Monument	239869
-149	Rainbow Bridge National Monument	Glen Canyon National Recreation Area	173
-150	Glen Canyon National Recreation Area	Navajo National Monument	157264
-151	Navajo National Monument	Petrified Forest National Park	312357
-152	Petrified Forest National Park	Hubbell Trading Post National Historic Site	106266
-153	Hubbell Trading Post National Historic Site	Canyon De Chelly National Monument	55262
-154	Canyon De Chelly National Monument	Hovenweep National Monument	207363
-155	Hovenweep National Monument	Yucca House National Monument	72082
-156	Yucca House National Monument	Mesa Verde National Park	67622
-157	Mesa Verde National Park	Aztec Ruins National Monument	142199
-158	Aztec Ruins National Monument	Chaco Culture National Historical Park	122963
-159	Chaco Culture National Historical Park	El Morro National Monument	204337
-160	El Morro National Monument	El Malpais National Monument	158224
-161	El Malpais National Monument	Gila Cliff Dwellings National Monument	412700
-162	Gila Cliff Dwellings National Monument	Fort Bowie National Historic Site	244350
-163	Fort Bowie National Historic Site	Chiricahua National Monument	41972
-164	Chiricahua National Monument	Coronado National Memorial	154381
-165	Coronado National Memorial	Saguaro National Park	140323
-166	Saguaro National Park	Tumacácori National Historical Park	105077
-167	Tumacácori National Historical Park	Organ Pipe Cactus National Monument	291628
-168	Organ Pipe Cactus National Monument	Hohokam Pima National Monument	210621
-169	Hohokam Pima National Monument	Casa Grande Ruins National Monument	51229
-170	Casa Grande Ruins National Monument	Tonto National Monument	141521
-171	Tonto National Monument	Montezuma Castle National Monument	186688
-172	Montezuma Castle National Monument	Tuzigoot National Monument	37516
-173	Tuzigoot National Monument	Walnut Canyon National Monument	125913
-174	Walnut Canyon National Monument	Sunset Crater Volcano National Monument	37028
-175	Sunset Crater Volcano National Monument	Wupatki National Monument	31067
-176	Wupatki National Monument	Grand Canyon National Park	136892
-177	Grand Canyon National Park	Pipe Spring National Monument	339653
-178	Pipe Spring National Monument	Zion National Park	103880
-179	Zion National Park	Cedar Breaks National Monument	148793
-180	Cedar Breaks National Monument	Great Basin National Park	249636
-181	Great Basin National Park	Tule Springs Fossil Beds National Monument	486129
-182	Tule Springs Fossil Beds National Monument	Lake Mead National Recreation Area	78838
-183	Lake Mead National Recreation Area	Castle Mountains National Monument	100698
-184	Castle Mountains National Monument	Mojave National Preserve	133694
-185	Mojave National Preserve	Joshua Tree National Park	206655
-186	Joshua Tree National Park	Cabrillo National Monument	329496
-187	Cabrillo National Monument	Santa Monica Mountains National Recreation Area	240819
-188	Santa Monica Mountains National Recreation Area	Channel Islands National Park	78965
-189	Channel Islands National Park	César E. Chávez National Monument	211586
-190	César E. Chávez National Monument	Death Valley National Park	339260
-191	Death Valley National Park	Manzanar National Historic Site	208078
-192	Manzanar National Historic Site	Sequoia National Park	468652
-193	Sequoia National Park	Kings Canyon National Park	95285
-194	Kings Canyon National Park	Devils Postpile National Monument	717338
-195	Devils Postpile National Monument	Yosemite National Park	567815
-196	Yosemite National Park	Pinnacles National Park	306225
-197	Pinnacles National Park	Eugene O'Neill National Historic Site	191870
-198	Eugene O'Neill National Historic Site	Port Chicago Naval Magazine National Memorial	33378
-199	Port Chicago Naval Magazine National Memorial	John Muir National Historic Site	18011
-200	John Muir National Historic Site	Rosie the Riveter/World War II Home Front National Historical Park	36655
-201	Rosie the Riveter/World War II Home Front National Historical Park	San Francisco Maritime National Historical Park	30647
-202	San Francisco Maritime National Historical Park	Golden Gate National Recreation Area	8049
-203	Golden Gate National Recreation Area	Fort Point National Historic Site	4806
-204	Fort Point National Historic Site	Muir Woods National Monument	20132
-205	Muir Woods National Monument	Point Reyes National Seashore	39096
-206	Point Reyes National Seashore	Lassen Volcanic National Park	405875
-207	Lassen Volcanic National Park	Whiskeytown-Shasta-Trinity National Recreation Area	126677
-208	Whiskeytown-Shasta-Trinity National Recreation Area	Redwood National Park	264028
-209	Redwood National Park	Oregon Caves National Monument and Preserve	182698
-210	Oregon Caves National Monument and Preserve	Crater Lake National Park	232572
-211	Crater Lake National Park	Lava Beds National Monument	170650
-212	Lava Beds National Monument	World War II Valor in the Pacific National Monument - California Unit	37969
-213	World War II Valor in the Pacific National Monument - California Unit	John Day Fossil Beds National Monument	452022
-214	John Day Fossil Beds National Monument	Fort Vancouver National Historic Site	380550
-215	Fort Vancouver National Historic Site	Lewis and Clark National Historical Park	153478
-216	Lewis and Clark National Historical Park	Mount Rainier National Park	227769
-217	Mount Rainier National Park	Klondike Gold Rush National Historical Park - Washington Unit	121869
-218	Klondike Gold Rush National Historical Park - Washington Unit	Olympic National Park	160978
-219	Olympic National Park	Ebey's Landing National Historical Reserve	121577
-220	Ebey's Landing National Historical Reserve	San Juan Island National Historical Park	49019
-221	San Juan Island National Historical Park	Ross Lake National Recreation Area	126237
-222	Ross Lake National Recreation Area	North Cascades National Park	26490
-223	North Cascades National Park	Lake Chelan National Recreation Area	404821
-224	Lake Chelan National Recreation Area	Lake Roosevelt National Recreation Area	219161
-225	Lake Roosevelt National Recreation Area	Whitman Mission National Historic Site	322075
-226	Whitman Mission National Historic Site	Nez Perce National Historical Park	253041
-227	Nez Perce National Historical Park	Glacier National Park	549645
-228	Glacier National Park	Grant-Kohrs Ranch National Historic Site	376743
-229	Grant-Kohrs Ranch National Historic Site	Big Hole National Battlefield	137165
-230	Big Hole National Battlefield	Craters of the Moon National Preserve	438015
-231	Craters of the Moon National Preserve	Craters of the Moon National Monument	84
-232	Craters of the Moon National Monument	Hagerman Fossil Beds National Monument	209575
-233	Hagerman Fossil Beds National Monument	Minidoka National Historic Site	63338
-234	Minidoka National Historic Site	City of Rocks National Reserve	136664
-235	City of Rocks National Reserve	Golden Spike National Historic Site	161098
-236	Golden Spike National Historic Site	Timpanogos Cave National Monument	191828
-237	Timpanogos Cave National Monument	Fossil Butte National Monument	276817
-238	Fossil Butte National Monument	Grand Teton National Park	273341
-239	Grand Teton National Park	John D. Rockefeller, Jr. Memorial Parkway	72428
-240	John D. Rockefeller, Jr. Memorial Parkway	Yellowstone National Park	71463
-241	Yellowstone National Park	Bighorn Canyon National Recreation Area	621085
-242	Bighorn Canyon National Recreation Area	Little Bighorn Battlefield National Monument	134835
-243	Little Bighorn Battlefield National Monument	Devils Tower National Monument	334992
-244	Devils Tower National Monument	Theodore Roosevelt National Park	390687
-245	Theodore Roosevelt National Park	Fort Union Trading Post National Historic Site	205829
-246	Fort Union Trading Post National Historic Site	Knife River Indian Villages National Historic Site	285944
-247	Knife River Indian Villages National Historic Site	Pipestone National Monument	771094
-248	Pipestone National Monument	Missouri National Recreational River	209190
-249	Missouri National Recreational River	Homestead National Monument of America	339804
-250	Homestead National Monument of America	Tallgrass Prairie National Preserve	240954
-251	Tallgrass Prairie National Preserve	Brown v. Board of Education National Historic Site	120536
-252	Brown v. Board of Education National Historic Site	Harry S Truman National Historic Site	113323
-253	Harry S Truman National Historic Site	Fort Scott National Historic Site	145825
-254	Fort Scott National Historic Site	George Washington Carver National Monument	137755
-255	George Washington Carver National Monument	Pea Ridge National Military Park	99991
-256	Pea Ridge National Military Park	Wilson's Creek National Battlefield	110376
-257	Wilson's Creek National Battlefield	Buffalo National River	216878
-258	Buffalo National River	Ozark National Scenic Riverways	214698
-259	Ozark National Scenic Riverways	Ulysses S. Grant National Historic Site	230137
-260	Ulysses S. Grant National Historic Site	Gateway Arch National Park	20219
-261	Gateway Arch National Park	Lincoln Home National Historic Site	155366
-262	Lincoln Home National Historic Site	Herbert Hoover National Historic Site	345918
-263	Herbert Hoover National Historic Site	Effigy Mounds National Monument	191476
-264	Effigy Mounds National Monument	Mississippi National River and Recreation Area	292617
-265	Mississippi National River and Recreation Area	Saint Croix National Scenic Riverway	86802
-266	Saint Croix National Scenic Riverway	Voyageurs National Park	402811
-267	Voyageurs National Park	Apostle Islands National Lakeshore	359726
-268	Apostle Islands National Lakeshore	Grand Portage National Monument	369644
-269	Grand Portage National Monument	Keweenaw National Historical Park	585834
-270	Keweenaw National Historical Park	Isle Royale National Park	8325
-271	Isle Royale National Park	Pictured Rocks National Lakeshore	264792
-272	Pictured Rocks National Lakeshore	Sleeping Bear Dunes National Lakeshore	445138
-273	Sleeping Bear Dunes National Lakeshore	Pullman National Monument	500519
-274	Pullman National Monument	Indiana Dunes National Lakeshore	63063
-275	Indiana Dunes National Lakeshore	River Raisin National Battlefield Park	367082
-276	River Raisin National Battlefield Park	Perry's Victory and International Peace Memorial	107906
-277	Perry's Victory and International Peace Memorial	James A. Garfield National Historic Site	165942
-278	James A. Garfield National Historic Site	Cuyahoga Valley National Park	61571
-279	Cuyahoga Valley National Park	First Ladies National Historic Site	60170
-280	First Ladies National Historic Site	Friendship Hill National Historic Site	295723
-281	Friendship Hill National Historic Site	Fort Necessity National Battlefield	40102
-282	Fort Necessity National Battlefield	Flight 93 National Memorial	87099
-283	Flight 93 National Memorial	Johnstown Flood National Memorial	47670
-284	Johnstown Flood National Memorial	Allegheny Portage Railroad National Historic Site	45936
-285	Allegheny Portage Railroad National Historic Site	Theodore Roosevelt Inaugural National Historic Site	362001
-286	Theodore Roosevelt Inaugural National Historic Site	Women's Rights National Historical Park	183418
-287	Women's Rights National Historical Park	Harriet Tubman National Historical Park	26177
-288	Harriet Tubman National Historical Park	Fort Stanwix National Monument	119056
-289	Fort Stanwix National Monument	Saratoga National Historical Park	179979
-290	Saratoga National Historical Park	Marsh-Billings-Rockefeller National Historical Park	164870
-291	Marsh-Billings-Rockefeller National Historical Park	Saint-Gaudens National Historic Site	31355
-292	Saint-Gaudens National Historic Site	Katahdin Woods and Waters National Monument	648583
-293	Katahdin Woods and Waters National Monument	Saint Croix Island International Historic Site	199716
-294	Saint Croix Island International Historic Site	Acadia National Park	189231
-295	Acadia National Park	Cape Cod National Seashore	604428
-296	Cape Cod National Seashore	New Bedford Whaling National Historical Park	121472
-297	New Bedford Whaling National Historical Park	Roger Williams National Memorial	53274
-298	Roger Williams National Memorial	Blackstone River Valley National Historical Park	1922
-299	Blackstone River Valley National Historical Park	Adams National Historical Park	66450
-300	Adams National Historical Park	Salem Maritime National Historic Site	56426
-301	Salem Maritime National Historic Site	Saugus Iron Works National Historic Site	20007
-302	Saugus Iron Works National Historic Site	Boston National Historical Park	16513
-303	Boston National Historical Park	Boston Harbor Islands National Recreation Area	2675
-304	Boston Harbor Islands National Recreation Area	Boston African American National Historic Site	1512
-305	Boston African American National Historic Site	Frederick Law Olmsted National Historic Site	9534
-306	Frederick Law Olmsted National Historic Site	John Fitzgerald Kennedy National Historic Site	3886
-307	John Fitzgerald Kennedy National Historic Site	Longfellow House-Washington's Headquarters National Historic Site	6017
-308	Longfellow House-Washington's Headquarters National Historic Site	Minute Man National Historical Park	20161
-309	Minute Man National Historical Park	Lowell National Historical Park	32637
-310	Lowell National Historical Park	Springfield Armory National Historic Site	151625
-311	Springfield Armory National Historic Site	Martin Van Buren National Historic Site	131260
-312	Martin Van Buren National Historic Site	Vanderbilt Mansion National Historic Site	72682
-313	Vanderbilt Mansion National Historic Site	Home of Franklin D. Roosevelt National Historic Site	5616
-314	Home of Franklin D. Roosevelt National Historic Site	Eleanor Roosevelt National Historic Site	4909
-315	Eleanor Roosevelt National Historic Site	Weir Farm National Historic Site	92318
-316	Weir Farm National Historic Site	Fire Island National Seashore	150580
-317	Fire Island National Seashore	Sagamore Hill National Historic Site	59999
-318	Sagamore Hill National Historic Site	Saint Paul's Church National Historic Site	54852
-319	Saint Paul's Church National Historic Site	Hamilton Grange National Memorial	20110
-320	Hamilton Grange National Memorial	General Grant National Memorial	2553
-321	General Grant National Memorial	Theodore Roosevelt Birthplace National Historic Site	11958
-322	Theodore Roosevelt Birthplace National Historic Site	Stonewall National Monument	1531
-323	Stonewall National Monument	African Burial Ground National Monument	2794
-324	African Burial Ground National Monument	Federal Hall National Memorial	1639
-325	Federal Hall National Memorial	Castle Clinton National Monument	1857
-326	Castle Clinton National Monument	Governors Island National Monument	1451
-327	Governors Island National Monument	Gateway National Recreation Area	91522
-328	Gateway National Recreation Area	Statue of Liberty National Monument	80869
-329	Statue of Liberty National Monument	Paterson Great Falls National Historical Park	43603
-330	Paterson Great Falls National Historical Park	Thomas Edison National Historical Park	21366
-331	Thomas Edison National Historical Park	Morristown National Historical Park	39987
-332	Morristown National Historical Park	Middle Delaware National Scenic River	97332
-333	Middle Delaware National Scenic River	Delaware Water Gap National Recreation Area	0
-334	Delaware Water Gap National Recreation Area	Upper Delaware Scenic and Recreational River	73181
-335	Upper Delaware Scenic and Recreational River	Steamtown National Historic Site	76849
-336	Steamtown National Historic Site	Hopewell Furnace National Historic Site	179065
-337	Hopewell Furnace National Historic Site	Valley Forge National Historical Park	35555
-338	Valley Forge National Historical Park	First State National Historical Park	70267
-339	First State National Historical Park	Edgar Allan Poe National Historic Site	63511
-340	Edgar Allan Poe National Historic Site	Independence National Historical Park	2248
-341	Independence National Historical Park	Thaddeus Kosciuszko National Memorial	583
-342	Thaddeus Kosciuszko National Memorial	Great Egg Harbor Scenic and Recreational River	98930
-343	Great Egg Harbor Scenic and Recreational River	Assateague Island National Seashore	158839
-344	Assateague Island National Seashore	Harriet Tubman Underground Railroad National Historical Park	100802
-345	Harriet Tubman Underground Railroad National Historical Park	Fort McHenry National Monument and Historic Shrine	139388
-346	Fort McHenry National Monument and Historic Shrine	Hampton National Historic Site	31187
-347	Hampton National Historic Site	Gettysburg National Military Park	86902
-348	Gettysburg National Military Park	Eisenhower National Historic Site	5260
-349	Eisenhower National Historic Site	Catoctin Mountain Park	34182
-350	Catoctin Mountain Park	Monocacy National Battlefield	42550
-351	Monocacy National Battlefield	Antietam National Battlefield	42393
-352	Antietam National Battlefield	Harpers Ferry National Historical Park	28209
-353	Harpers Ferry National Historical Park	Appalachian National Scenic Trail - Headquarters in Harpers Ferry	1029
-354	Appalachian National Scenic Trail - Headquarters in Harpers Ferry	Cedar Creek and Belle Grove National Historical Park	65568
-355	Cedar Creek and Belle Grove National Historical Park	Shenandoah National Park	115619
-356	Shenandoah National Park	Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park	94212
-357	Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park	Prince William Forest Park	41595
-358	Prince William Forest Park	Manassas National Battlefield Park	48716
-359	Manassas National Battlefield Park	Wolf Trap National Park for the Performing Arts	41495
-360	Wolf Trap National Park for the Performing Arts	Clara Barton National Historic Site	16327
-361	Clara Barton National Historic Site	Rock Creek Park	10377
-362	Rock Creek Park	Greenbelt Park	23249
-363	Greenbelt Park	Carter G. Woodson Home National Historic Site	19819
-364	Carter G. Woodson Home National Historic Site	Mary McLeod Bethune Council House National Historic Site	865
-365	Mary McLeod Bethune Council House National Historic Site	World War I Memorial	753
-366	World War I Memorial	Potomac Heritage National Scenic Trail	2203
-367	Potomac Heritage National Scenic Trail	Chesapeake and Ohio Canal National Historical Park	593
-368	Chesapeake and Ohio Canal National Historical Park	Theodore Roosevelt Island	3909
-369	Theodore Roosevelt Island	Arlington House, The Robert E. Lee Memorial	7212
-370	Arlington House, The Robert E. Lee Memorial	Lyndon Baines Johnson Memorial Grove on the Potomac	2543
-371	Lyndon Baines Johnson Memorial Grove on the Potomac	Franklin Delano Roosevelt Memorial	4596
-372	Franklin Delano Roosevelt Memorial	Martin Luther King, Jr. Memorial	184
-373	Martin Luther King, Jr. Memorial	Korean War Veterans Memorial	299
-374	Korean War Veterans Memorial	Vietnam Veterans Memorial	2464
-375	Vietnam Veterans Memorial	Constitution Gardens	393
-376	Constitution Gardens	World War II Memorial	727
-377	World War II Memorial	Thomas Jefferson Memorial	1872
-378	Thomas Jefferson Memorial	National Capital Parks	2782
-379	National Capital Parks	Lincoln Memorial	2191
+1	Washington Monument	Thomas Jefferson Memorial	1183
+2	Thomas Jefferson Memorial	World War II Memorial	2364
+3	World War II Memorial	Constitution Gardens	1056
+4	Constitution Gardens	Vietnam Veterans Memorial	400
+5	Vietnam Veterans Memorial	Korean War Veterans Memorial	1942
+6	Korean War Veterans Memorial	Martin Luther King, Jr. Memorial	1127
+7	Martin Luther King, Jr. Memorial	Franklin Delano Roosevelt Memorial	1234
+8	Franklin Delano Roosevelt Memorial	Lyndon Baines Johnson Memorial Grove on the Potomac	3996
+9	Lyndon Baines Johnson Memorial Grove on the Potomac	Arlington House, The Robert E. Lee Memorial	5877
+10	Arlington House, The Robert E. Lee Memorial	Theodore Roosevelt Island	4052
+11	Theodore Roosevelt Island	Chesapeake and Ohio Canal National Historical Park	6711
+12	Chesapeake and Ohio Canal National Historical Park	Potomac Heritage National Scenic Trail	4378
+13	Potomac Heritage National Scenic Trail	World War I Memorial	2820
+14	World War I Memorial	Mary McLeod Bethune Council House National Historic Site	829
+15	Mary McLeod Bethune Council House National Historic Site	Carter G. Woodson Home National Historic Site	781
+16	Carter G. Woodson Home National Historic Site	Greenbelt Park	21730
+17	Greenbelt Park	Rock Creek Park	23788
+18	Rock Creek Park	Clara Barton National Historic Site	10571
+19	Clara Barton National Historic Site	Wolf Trap National Park for the Performing Arts	16930
+20	Wolf Trap National Park for the Performing Arts	Manassas National Battlefield Park	41025
+21	Manassas National Battlefield Park	Prince William Forest Park	46908
+22	Prince William Forest Park	Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park	42541
+23	Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park	Shenandoah National Park	94356
+24	Shenandoah National Park	Cedar Creek and Belle Grove National Historical Park	116332
+25	Cedar Creek and Belle Grove National Historical Park	Appalachian National Scenic Trail - Headquarters in Harpers Ferry	60883
+26	Appalachian National Scenic Trail - Headquarters in Harpers Ferry	Harpers Ferry National Historical Park	1029
+27	Harpers Ferry National Historical Park	Antietam National Battlefield	29998
+28	Antietam National Battlefield	Monocacy National Battlefield	45712
+29	Monocacy National Battlefield	Catoctin Mountain Park	43738
+30	Catoctin Mountain Park	Eisenhower National Historic Site	36704
+31	Eisenhower National Historic Site	Gettysburg National Military Park	4459
+32	Gettysburg National Military Park	Hampton National Historic Site	90452
+33	Hampton National Historic Site	Fort McHenry National Monument and Historic Shrine	26410
+34	Fort McHenry National Monument and Historic Shrine	Harriet Tubman Underground Railroad National Historical Park	137376
+35	Harriet Tubman Underground Railroad National Historical Park	Assateague Island National Seashore	101053
+36	Assateague Island National Seashore	Great Egg Harbor Scenic and Recreational River	159098
+37	Great Egg Harbor Scenic and Recreational River	Thaddeus Kosciuszko National Memorial	102699
+38	Thaddeus Kosciuszko National Memorial	Independence National Historical Park	1154
+39	Independence National Historical Park	Edgar Allan Poe National Historic Site	2053
+40	Edgar Allan Poe National Historic Site	First State National Historical Park	58211
+41	First State National Historical Park	Valley Forge National Historical Park	73140
+42	Valley Forge National Historical Park	Hopewell Furnace National Historic Site	37960
+43	Hopewell Furnace National Historic Site	Steamtown National Historic Site	184531
+44	Steamtown National Historic Site	Upper Delaware Scenic and Recreational River	77026
+45	Upper Delaware Scenic and Recreational River	Delaware Water Gap National Recreation Area	73220
+46	Delaware Water Gap National Recreation Area	Middle Delaware National Scenic River	0
+47	Middle Delaware National Scenic River	Morristown National Historical Park	93002
+48	Morristown National Historical Park	Thomas Edison National Historical Park	42809
+49	Thomas Edison National Historical Park	Paterson Great Falls National Historical Park	25630
+50	Paterson Great Falls National Historical Park	Statue of Liberty National Monument	43005
+51	Statue of Liberty National Monument	Gateway National Recreation Area	82723
+52	Gateway National Recreation Area	Governors Island National Monument	90748
+53	Governors Island National Monument	Castle Clinton National Monument	3078
+54	Castle Clinton National Monument	Federal Hall National Memorial	1703
+55	Federal Hall National Memorial	African Burial Ground National Monument	2371
+56	African Burial Ground National Monument	Stonewall National Monument	2605
+57	Stonewall National Monument	Theodore Roosevelt Birthplace National Historic Site	1734
+58	Theodore Roosevelt Birthplace National Historic Site	General Grant National Memorial	11710
+59	General Grant National Memorial	Hamilton Grange National Memorial	2231
+60	Hamilton Grange National Memorial	Saint Paul's Church National Historic Site	21010
+61	Saint Paul's Church National Historic Site	Sagamore Hill National Historic Site	57203
+62	Sagamore Hill National Historic Site	Fire Island National Seashore	58758
+63	Fire Island National Seashore	Weir Farm National Historic Site	150308
+64	Weir Farm National Historic Site	Eleanor Roosevelt National Historic Site	91422
+65	Eleanor Roosevelt National Historic Site	Home of Franklin D. Roosevelt National Historic Site	4817
+66	Home of Franklin D. Roosevelt National Historic Site	Vanderbilt Mansion National Historic Site	4130
+67	Vanderbilt Mansion National Historic Site	Martin Van Buren National Historic Site	71839
+68	Martin Van Buren National Historic Site	Springfield Armory National Historic Site	125536
+69	Springfield Armory National Historic Site	Lowell National Historical Park	150350
+70	Lowell National Historical Park	Minute Man National Historical Park	31020
+71	Minute Man National Historical Park	Longfellow House-Washington's Headquarters National Historic Site	19499
+72	Longfellow House-Washington's Headquarters National Historic Site	John Fitzgerald Kennedy National Historic Site	4721
+73	John Fitzgerald Kennedy National Historic Site	Frederick Law Olmsted National Historic Site	3723
+74	Frederick Law Olmsted National Historic Site	Boston African American National Historic Site	8504
+75	Boston African American National Historic Site	Boston Harbor Islands National Recreation Area	1635
+76	Boston Harbor Islands National Recreation Area	Boston National Historical Park	2855
+77	Boston National Historical Park	Saugus Iron Works National Historic Site	16439
+78	Saugus Iron Works National Historic Site	Salem Maritime National Historic Site	14312
+79	Salem Maritime National Historic Site	Adams National Historical Park	50082
+80	Adams National Historical Park	Blackstone River Valley National Historical Park	66392
+81	Blackstone River Valley National Historical Park	Roger Williams National Memorial	1431
+82	Roger Williams National Memorial	New Bedford Whaling National Historical Park	49733
+83	New Bedford Whaling National Historical Park	Cape Cod National Seashore	119249
+84	Cape Cod National Seashore	Acadia National Park	602637
+85	Acadia National Park	Saint Croix Island International Historic Site	189662
+86	Saint Croix Island International Historic Site	Katahdin Woods and Waters National Monument	199723
+87	Katahdin Woods and Waters National Monument	Saint-Gaudens National Historic Site	647350
+88	Saint-Gaudens National Historic Site	Marsh-Billings-Rockefeller National Historical Park	31355
+89	Marsh-Billings-Rockefeller National Historical Park	Saratoga National Historical Park	169519
+90	Saratoga National Historical Park	Fort Stanwix National Monument	187838
+91	Fort Stanwix National Monument	Harriet Tubman National Historical Park	118985
+92	Harriet Tubman National Historical Park	Women's Rights National Historical Park	26183
+93	Women's Rights National Historical Park	Theodore Roosevelt Inaugural National Historic Site	180467
+94	Theodore Roosevelt Inaugural National Historic Site	Allegheny Portage Railroad National Historic Site	359222
+95	Allegheny Portage Railroad National Historic Site	Johnstown Flood National Memorial	37076
+96	Johnstown Flood National Memorial	Flight 93 National Memorial	55058
+97	Flight 93 National Memorial	Fort Necessity National Battlefield	87157
+98	Fort Necessity National Battlefield	Friendship Hill National Historic Site	39823
+99	Friendship Hill National Historic Site	First Ladies National Historic Site	221024
+100	First Ladies National Historic Site	Cuyahoga Valley National Park	59697
+101	Cuyahoga Valley National Park	James A. Garfield National Historic Site	61344
+102	James A. Garfield National Historic Site	Perry's Victory and International Peace Memorial	165230
+103	Perry's Victory and International Peace Memorial	River Raisin National Battlefield Park	107773
+104	River Raisin National Battlefield Park	Indiana Dunes National Lakeshore	366242
+105	Indiana Dunes National Lakeshore	Pullman National Monument	62628
+106	Pullman National Monument	Sleeping Bear Dunes National Lakeshore	527843
+107	Sleeping Bear Dunes National Lakeshore	Pictured Rocks National Lakeshore	444589
+108	Pictured Rocks National Lakeshore	Isle Royale National Park	263966
+109	Isle Royale National Park	Keweenaw National Historical Park	6076
+110	Keweenaw National Historical Park	Grand Portage National Monument	586970
+111	Grand Portage National Monument	Apostle Islands National Lakeshore	367798
+112	Apostle Islands National Lakeshore	Voyageurs National Park	364166
+113	Voyageurs National Park	Saint Croix National Scenic Riverway	406959
+114	Saint Croix National Scenic Riverway	Mississippi National River and Recreation Area	87793
+115	Mississippi National River and Recreation Area	Effigy Mounds National Monument	292733
+116	Effigy Mounds National Monument	Herbert Hoover National Historic Site	191079
+117	Herbert Hoover National Historic Site	Lincoln Home National Historic Site	345120
+118	Lincoln Home National Historic Site	Gateway Arch National Park	155222
+119	Gateway Arch National Park	Ulysses S. Grant National Historic Site	23290
+120	Ulysses S. Grant National Historic Site	Ozark National Scenic Riverways	226692
+121	Ozark National Scenic Riverways	Buffalo National River	214711
+122	Buffalo National River	Wilson's Creek National Battlefield	205842
+123	Wilson's Creek National Battlefield	Pea Ridge National Military Park	110342
+124	Pea Ridge National Military Park	George Washington Carver National Monument	99940
+125	George Washington Carver National Monument	Fort Scott National Historic Site	120370
+126	Fort Scott National Historic Site	Harry S Truman National Historic Site	144952
+127	Harry S Truman National Historic Site	Brown v. Board of Education National Historic Site	115244
+128	Brown v. Board of Education National Historic Site	Tallgrass Prairie National Preserve	121427
+129	Tallgrass Prairie National Preserve	Homestead National Monument of America	240745
+130	Homestead National Monument of America	Missouri National Recreational River	337348
+131	Missouri National Recreational River	Pipestone National Monument	205584
+132	Pipestone National Monument	Knife River Indian Villages National Historic Site	734096
+133	Knife River Indian Villages National Historic Site	Fort Union Trading Post National Historic Site	285902
+134	Fort Union Trading Post National Historic Site	Theodore Roosevelt National Park	205491
+135	Theodore Roosevelt National Park	Devils Tower National Monument	391127
+136	Devils Tower National Monument	Little Bighorn Battlefield National Monument	334953
+137	Little Bighorn Battlefield National Monument	Bighorn Canyon National Recreation Area	134331
+138	Bighorn Canyon National Recreation Area	Yellowstone National Park	321211
+139	Yellowstone National Park	John D. Rockefeller, Jr. Memorial Parkway	70042
+140	John D. Rockefeller, Jr. Memorial Parkway	Grand Teton National Park	72432
+141	Grand Teton National Park	Fossil Butte National Monument	273425
+142	Fossil Butte National Monument	Timpanogos Cave National Monument	278896
+143	Timpanogos Cave National Monument	Golden Spike National Historic Site	192179
+144	Golden Spike National Historic Site	City of Rocks National Reserve	159072
+145	City of Rocks National Reserve	Minidoka National Historic Site	132247
+146	Minidoka National Historic Site	Hagerman Fossil Beds National Monument	63305
+147	Hagerman Fossil Beds National Monument	Craters of the Moon National Monument	164829
+148	Craters of the Moon National Monument	Craters of the Moon National Preserve	117
+149	Craters of the Moon National Preserve	Big Hole National Battlefield	353814
+150	Big Hole National Battlefield	Grant-Kohrs Ranch National Historic Site	137341
+151	Grant-Kohrs Ranch National Historic Site	Glacier National Park	336263
+152	Glacier National Park	Nez Perce National Historical Park	501107
+153	Nez Perce National Historical Park	Whitman Mission National Historic Site	253217
+154	Whitman Mission National Historic Site	Lake Roosevelt National Recreation Area	322333
+155	Lake Roosevelt National Recreation Area	Lake Chelan National Recreation Area	219878
+156	Lake Chelan National Recreation Area	North Cascades National Park	187840
+157	North Cascades National Park	Ross Lake National Recreation Area	27182
+158	Ross Lake National Recreation Area	San Juan Island National Historical Park	126846
+159	San Juan Island National Historical Park	Ebey's Landing National Historical Reserve	49128
+160	Ebey's Landing National Historical Reserve	Olympic National Park	208110
+161	Olympic National Park	Klondike Gold Rush National Historical Park - Washington Unit	161299
+162	Klondike Gold Rush National Historical Park - Washington Unit	Mount Rainier National Park	127671
+163	Mount Rainier National Park	Lewis and Clark National Historical Park	221581
+164	Lewis and Clark National Historical Park	Fort Vancouver National Historic Site	153386
+165	Fort Vancouver National Historic Site	John Day Fossil Beds National Monument	377200
+166	John Day Fossil Beds National Monument	World War II Valor in the Pacific National Monument - California Unit	451930
+167	World War II Valor in the Pacific National Monument - California Unit	Lava Beds National Monument	37969
+168	Lava Beds National Monument	Crater Lake National Park	171991
+169	Crater Lake National Park	Oregon Caves National Monument and Preserve	232373
+170	Oregon Caves National Monument and Preserve	Redwood National Park	183392
+171	Redwood National Park	Whiskeytown-Shasta-Trinity National Recreation Area	263695
+172	Whiskeytown-Shasta-Trinity National Recreation Area	Lassen Volcanic National Park	126741
+173	Lassen Volcanic National Park	Point Reyes National Seashore	405986
+174	Point Reyes National Seashore	Muir Woods National Monument	37370
+175	Muir Woods National Monument	Fort Point National Historic Site	20496
+176	Fort Point National Historic Site	Golden Gate National Recreation Area	4983
+177	Golden Gate National Recreation Area	San Francisco Maritime National Historical Park	7322
+178	San Francisco Maritime National Historical Park	Rosie the Riveter/World War II Home Front National Historical Park	31018
+179	Rosie the Riveter/World War II Home Front National Historical Park	John Muir National Historic Site	37254
+180	John Muir National Historic Site	Port Chicago Naval Magazine National Memorial	16578
+181	Port Chicago Naval Magazine National Memorial	Eugene O'Neill National Historic Site	31167
+182	Eugene O'Neill National Historic Site	Pinnacles National Park	192631
+183	Pinnacles National Park	Yosemite National Park	308473
+184	Yosemite National Park	Devils Postpile National Monument	163882
+185	Devils Postpile National Monument	Kings Canyon National Park	431535
+186	Kings Canyon National Park	Sequoia National Park	95280
+187	Sequoia National Park	Manzanar National Historic Site	466945
+188	Manzanar National Historic Site	Death Valley National Park	210364
+189	Death Valley National Park	César E. Chávez National Monument	338769
+190	César E. Chávez National Monument	Channel Islands National Park	199353
+191	Channel Islands National Park	Santa Monica Mountains National Recreation Area	80339
+192	Santa Monica Mountains National Recreation Area	Cabrillo National Monument	239154
+193	Cabrillo National Monument	Joshua Tree National Park	285995
+194	Joshua Tree National Park	Mojave National Preserve	206655
+195	Mojave National Preserve	Castle Mountains National Monument	113174
+196	Castle Mountains National Monument	Lake Mead National Recreation Area	101012
+197	Lake Mead National Recreation Area	Tule Springs Fossil Beds National Monument	74596
+198	Tule Springs Fossil Beds National Monument	Great Basin National Park	486849
+199	Great Basin National Park	Cedar Breaks National Monument	253939
+200	Cedar Breaks National Monument	Zion National Park	133140
+201	Zion National Park	Pipe Spring National Monument	94497
+202	Pipe Spring National Monument	Grand Canyon National Park	339571
+203	Grand Canyon National Park	Wupatki National Monument	136818
+204	Wupatki National Monument	Sunset Crater Volcano National Monument	31066
+205	Sunset Crater Volcano National Monument	Walnut Canyon National Monument	36410
+206	Walnut Canyon National Monument	Tuzigoot National Monument	125364
+207	Tuzigoot National Monument	Montezuma Castle National Monument	37876
+208	Montezuma Castle National Monument	Tonto National Monument	187664
+209	Tonto National Monument	Casa Grande Ruins National Monument	142616
+210	Casa Grande Ruins National Monument	Hohokam Pima National Monument	51432
+211	Hohokam Pima National Monument	Organ Pipe Cactus National Monument	220924
+212	Organ Pipe Cactus National Monument	Tumacácori National Historical Park	295014
+213	Tumacácori National Historical Park	Saguaro National Park	93697
+214	Saguaro National Park	Coronado National Memorial	138784
+215	Coronado National Memorial	Chiricahua National Monument	154241
+216	Chiricahua National Monument	Fort Bowie National Historic Site	41952
+217	Fort Bowie National Historic Site	Gila Cliff Dwellings National Monument	245640
+218	Gila Cliff Dwellings National Monument	El Malpais National Monument	412648
+219	El Malpais National Monument	El Morro National Monument	158837
+220	El Morro National Monument	Chaco Culture National Historical Park	199941
+221	Chaco Culture National Historical Park	Aztec Ruins National Monument	123474
+222	Aztec Ruins National Monument	Mesa Verde National Park	142552
+223	Mesa Verde National Park	Yucca House National Monument	67440
+224	Yucca House National Monument	Hovenweep National Monument	72084
+225	Hovenweep National Monument	Canyon De Chelly National Monument	207368
+226	Canyon De Chelly National Monument	Hubbell Trading Post National Historic Site	55347
+227	Hubbell Trading Post National Historic Site	Petrified Forest National Park	105933
+228	Petrified Forest National Park	Navajo National Monument	312460
+229	Navajo National Monument	Glen Canyon National Recreation Area	154528
+230	Glen Canyon National Recreation Area	Rainbow Bridge National Monument	169
+231	Rainbow Bridge National Monument	Bryce Canyon National Park	239905
+232	Bryce Canyon National Park	Capitol Reef National Park	209657
+233	Capitol Reef National Park	Natural Bridges National Monument	239071
+234	Natural Bridges National Monument	Canyonlands National Park	180681
+235	Canyonlands National Park	Arches National Park	140412
+236	Arches National Park	Dinosaur National Monument	364546
+237	Dinosaur National Monument	Colorado National Monument	250063
+238	Colorado National Monument	Black Canyon of the Gunnison National Park	134015
+239	Black Canyon of the Gunnison National Park	Curecanti National Recreation Area	58596
+240	Curecanti National Recreation Area	Great Sand Dunes National Park	255989
+241	Great Sand Dunes National Park	Great Sand Dunes National Preserve	1629
+242	Great Sand Dunes National Preserve	Florissant Fossil Beds National Monument	267898
+243	Florissant Fossil Beds National Monument	Rocky Mountain National Park	273099
+244	Rocky Mountain National Park	Fort Laramie National Historic Site	320567
+245	Fort Laramie National Historic Site	Scotts Bluff National Monument	92471
+246	Scotts Bluff National Monument	Agate Fossil Beds National Monument	81178
+247	Agate Fossil Beds National Monument	Wind Cave National Park	204624
+248	Wind Cave National Park	Jewel Cave National Monument	52375
+249	Jewel Cave National Monument	Mount Rushmore National Memorial	51415
+250	Mount Rushmore National Memorial	Badlands National Park	108540
+251	Badlands National Park	Minuteman Missile National Historic Site	69389
+252	Minuteman Missile National Historic Site	Niobrara National Scenic River	255645
+253	Niobrara National Scenic River	Nicodemus National Historic Site	495578
+254	Nicodemus National Historic Site	Fort Larned National Historic Site	171447
+255	Fort Larned National Historic Site	Washita Battlefield National Historic Site	331013
+256	Washita Battlefield National Historic Site	Lake Meredith National Recreation Area	196778
+257	Lake Meredith National Recreation Area	Alibates Flint Quarries National Monument	33786
+258	Alibates Flint Quarries National Monument	Sand Creek Massacre National Historic Site	412456
+259	Sand Creek Massacre National Historic Site	Bent's Old Fort National Historic Site	130546
+260	Bent's Old Fort National Historic Site	Capulin Volcano National Monument	213600
+261	Capulin Volcano National Monument	Fort Union National Monument	202253
+262	Fort Union National Monument	Pecos National Historical Park	114442
+263	Pecos National Historical Park	Manhattan Project National Historical Park - New Mexico Unit	117983
+264	Manhattan Project National Historical Park - New Mexico Unit	Bandelier National Monument	19907
+265	Bandelier National Monument	Valles Caldera National Preserve	45327
+266	Valles Caldera National Preserve	Petroglyph National Monument	145879
+267	Petroglyph National Monument	Salinas Pueblo Missions National Monument	171077
+268	Salinas Pueblo Missions National Monument	White Sands National Monument	208499
+269	White Sands National Monument	Chamizal National Memorial	159148
+270	Chamizal National Memorial	Guadalupe Mountains National Park	182324
+271	Guadalupe Mountains National Park	Carlsbad Caverns National Park	68632
+272	Carlsbad Caverns National Park	Fort Davis National Historic Site	306685
+273	Fort Davis National Historic Site	Big Bend National Park	223926
+274	Big Bend National Park	Rio Grande Wild and Scenic River	34649
+275	Rio Grande Wild and Scenic River	Amistad National Recreation Area	405354
+276	Amistad National Recreation Area	Palo Alto Battlefield National Historical Park	624832
+277	Palo Alto Battlefield National Historical Park	Padre Island National Seashore	290066
+278	Padre Island National Seashore	San Antonio Missions National Historical Park	277979
+279	San Antonio Missions National Historical Park	Lyndon B. Johnson National Historical Park	118548
+280	Lyndon B. Johnson National Historical Park	Waco Mammoth National Monument	252794
+281	Waco Mammoth National Monument	Chickasaw National Recreation Area	359815
+282	Chickasaw National Recreation Area	Fort Smith National Historic Site	328261
+283	Fort Smith National Historic Site	President William Jefferson Clinton Birthplace Home National Historic Site	281036
+284	President William Jefferson Clinton Birthplace Home National Historic Site	Hot Springs National Park	128705
+285	Hot Springs National Park	Little Rock Central High School National Historic Site	87833
+286	Little Rock Central High School National Historic Site	Arkansas Post National Memorial	157781
+287	Arkansas Post National Memorial	Poverty Point National Monument	190149
+288	Poverty Point National Monument	Vicksburg National Military Park	90129
+289	Vicksburg National Military Park	Natchez Trace Parkway	115457
+290	Natchez Trace Parkway	Natchez National Historical Park	3720
+291	Natchez National Historical Park	Cane River Creole National Historical Park	200067
+292	Cane River Creole National Historical Park	Big Thicket National Preserve	233485
+293	Big Thicket National Preserve	New Orleans Jazz National Historical Park	489580
+294	New Orleans Jazz National Historical Park	Jean Lafitte National Historical Park and Preserve	10646
+295	Jean Lafitte National Historical Park and Preserve	Gulf Islands National Seashore	351139
+296	Gulf Islands National Seashore	De Soto National Memorial	826316
+297	De Soto National Memorial	Dry Tortugas National Park	634803
+298	Dry Tortugas National Park	Everglades National Park	278603
+299	Everglades National Park	Biscayne National Park	91928
+300	Biscayne National Park	Big Cypress National Preserve	110504
+301	Big Cypress National Preserve	Canaveral National Seashore	451103
+302	Canaveral National Seashore	Fort Matanzas National Monument	160455
+303	Fort Matanzas National Monument	Castillo de San Marcos National Monument	23072
+304	Castillo de San Marcos National Monument	Fort Caroline National Memorial	64406
+305	Fort Caroline National Memorial	Timucuan Ecological and Historic Preserve	40641
+306	Timucuan Ecological and Historic Preserve	Cumberland Island National Seashore	84150
+307	Cumberland Island National Seashore	Fort Frederica National Monument	89190
+308	Fort Frederica National Monument	Fort Pulaski National Monument	162132
+309	Fort Pulaski National Monument	Reconstruction Era National Monument	100151
+310	Reconstruction Era National Monument	Fort Sumter National Monument	139525
+311	Fort Sumter National Monument	Charles Pinckney National Historic Site	16558
+312	Charles Pinckney National Historic Site	Congaree National Park	156630
+313	Congaree National Park	Ninety Six National Historic Site	161325
+314	Ninety Six National Historic Site	Kings Mountain National Military Park	177278
+315	Kings Mountain National Military Park	Cowpens National Battlefield	47676
+316	Cowpens National Battlefield	Carl Sandburg Home National Historic Site	81564
+317	Carl Sandburg Home National Historic Site	Andrew Johnson National Historic Site	136492
+318	Andrew Johnson National Historic Site	Great Smoky Mountains National Park	96897
+319	Great Smoky Mountains National Park	Cumberland Gap National Historical Park	161842
+320	Cumberland Gap National Historical Park	Big South Fork National River and Recreation Area	140629
+321	Big South Fork National River and Recreation Area	Obed Wild and Scenic River	103495
+322	Obed Wild and Scenic River	Stones River National Battlefield	142114
+323	Stones River National Battlefield	Russell Cave National Monument	147454
+324	Russell Cave National Monument	Chickamauga and Chattanooga National Military Park	76493
+325	Chickamauga and Chattanooga National Military Park	Little River Canyon National Preserve	83253
+326	Little River Canyon National Preserve	Kennesaw Mountain National Battlefield Park	161448
+327	Kennesaw Mountain National Battlefield Park	Chattahoochee River National Recreation Area	40605
+328	Chattahoochee River National Recreation Area	Martin Luther King Jr. National Historic Site	32794
+329	Martin Luther King Jr. National Historic Site	Ocmulgee National Monument	140727
+330	Ocmulgee National Monument	Andersonville National Historic Site	106413
+331	Andersonville National Historic Site	Jimmy Carter National Historic Site	39870
+332	Jimmy Carter National Historic Site	Tuskegee Institute National Historic Site	156240
+333	Tuskegee Institute National Historic Site	Tuskegee Airmen National Historic Site	6909
+334	Tuskegee Airmen National Historic Site	Horseshoe Bend National Military Park	75368
+335	Horseshoe Bend National Military Park	Freedom Riders National Monument	103096
+336	Freedom Riders National Monument	Birmingham Civil Rights National Monument	103418
+337	Birmingham Civil Rights National Monument	Natchez Trace National Scenic Trail	225100
+338	Natchez Trace National Scenic Trail	Tupelo National Battlefield	86581
+339	Tupelo National Battlefield	Brices Cross Roads National Battlefield Site	34249
+340	Brices Cross Roads National Battlefield Site	Shiloh National Military Park	94917
+341	Shiloh National Military Park	Fort Donelson National Battlefield	186323
+342	Fort Donelson National Battlefield	George Rogers Clark National Historical Park	280553
+343	George Rogers Clark National Historical Park	Lincoln Boyhood National Memorial	120466
+344	Lincoln Boyhood National Memorial	Mammoth Cave National Park	180974
+345	Mammoth Cave National Park	Abraham Lincoln Birthplace National Historical Park	72165
+346	Abraham Lincoln Birthplace National Historical Park	Camp Nelson National Monument	132021
+347	Camp Nelson National Monument	William Howard Taft National Historic Site	173012
+348	William Howard Taft National Historic Site	Dayton Aviation Heritage National Historical Park	102475
+349	Dayton Aviation Heritage National Historical Park	Charles Young Buffalo Soldiers National Monument	27895
+350	Charles Young Buffalo Soldiers National Monument	Hopewell Culture National Historical Park	93451
+351	Hopewell Culture National Historical Park	Gauley River National Recreation Area	294000
+352	Gauley River National Recreation Area	New River Gorge National River	60626
+353	New River Gorge National River	Bluestone National Scenic River	101580
+354	Bluestone National Scenic River	Blue Ridge Parkway	166091
+355	Blue Ridge Parkway	Guilford Courthouse National Military Park	141163
+356	Guilford Courthouse National Military Park	Booker T. Washington National Monument	132783
+357	Booker T. Washington National Monument	Appomattox Court House National Historical Park	110663
+358	Appomattox Court House National Historical Park	Moores Creek National Battlefield	396140
+359	Moores Creek National Battlefield	Cape Lookout National Seashore	181459
+360	Cape Lookout National Seashore	Cape Hatteras National Seashore	376455
+361	Cape Hatteras National Seashore	Fort Raleigh National Historic Site	84469
+362	Fort Raleigh National Historic Site	Wright Brothers National Memorial	30436
+363	Wright Brothers National Memorial	Fort Monroe National Monument	155374
+364	Fort Monroe National Monument	Colonial National Historical Park	35518
+365	Colonial National Historical Park	Petersburg National Battlefield	129225
+366	Petersburg National Battlefield	Richmond National Battlefield Park	39543
+367	Richmond National Battlefield Park	Maggie L. Walker National Historic Site	23764
+368	Maggie L. Walker National Historic Site	George Washington Birthplace National Monument	115055
+369	George Washington Birthplace National Monument	Thomas Stone National Historic Site	66635
+370	Thomas Stone National Historic Site	Piscataway Park	19130
+371	Piscataway Park	George Washington Memorial Parkway	44119
+372	George Washington Memorial Parkway	Fort Washington Park	33245
+373	Fort Washington Park	Frederick Douglass National Historic Site	24848
+374	Frederick Douglass National Historic Site	Belmont-Paul Women's Equality National Monument	4201
+375	Belmont-Paul Women's Equality National Monument	National Mall	2062
+376	National Mall	Pennsylvania Avenue National Historic Site	3032
+377	Pennsylvania Avenue National Historic Site	Ford's Theatre National Historic Site	1053
+378	Ford's Theatre National Historic Site	White House	2424
+379	White House	National Capital Parks	1954
+380	National Capital Parks	Washington Monument	1371

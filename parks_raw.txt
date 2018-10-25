@@ -378,3 +378,4 @@
 33.5152	-86.8147	Birmingham Civil Rights National Monument
 33.6581	-85.8312	Freedom Riders National Monument
 32.3896	-80.5757	Reconstruction Era National Monument
+37.7968	-84.6008	Camp Nelson National Monument

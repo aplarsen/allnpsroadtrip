@@ -1,90 +1,90 @@
 [
     {
-        "file": "code/raw/segment0.txt",
         "end": {
             "i": 50,
-            "n": "Martin Luther King Jr. National Historic Site"
+            "n": "Statue of Liberty National Monument"
         },
+        "file": "code/raw/segment0.txt",
         "start": {
             "i": 1,
             "n": "Washington Monument"
         }
     },
     {
-        "file": "code/raw/segment1.txt",
         "end": {
             "i": 100,
-            "n": "San Antonio Missions National Historical Park"
+            "n": "Cuyahoga Valley National Park"
         },
+        "file": "code/raw/segment1.txt",
         "start": {
             "i": 51,
-            "n": "Martin Luther King Jr. National Historic Site"
+            "n": "Statue of Liberty National Monument"
         }
     },
     {
-        "file": "code/raw/segment2.txt",
         "end": {
             "i": 150,
-            "n": "Navajo National Monument"
+            "n": "Grant-Kohrs Ranch National Historic Site"
         },
+        "file": "code/raw/segment2.txt",
         "start": {
             "i": 101,
-            "n": "San Antonio Missions National Historical Park"
+            "n": "Cuyahoga Valley National Park"
         }
     },
     {
-        "file": "code/raw/segment3.txt",
         "end": {
             "i": 200,
-            "n": "Rosie the Riveter/World War II Home Front National Historical Park"
+            "n": "Zion National Park"
         },
+        "file": "code/raw/segment3.txt",
         "start": {
             "i": 151,
-            "n": "Navajo National Monument"
+            "n": "Grant-Kohrs Ranch National Historic Site"
         }
     },
     {
-        "file": "code/raw/segment4.txt",
         "end": {
             "i": 250,
-            "n": "Tallgrass Prairie National Preserve"
+            "n": "Badlands National Park"
         },
+        "file": "code/raw/segment4.txt",
         "start": {
             "i": 201,
-            "n": "Rosie the Riveter/World War II Home Front National Historical Park"
+            "n": "Zion National Park"
         }
     },
     {
-        "file": "code/raw/segment5.txt",
         "end": {
             "i": 300,
-            "n": "Salem Maritime National Historic Site"
+            "n": "Big Cypress National Preserve"
         },
+        "file": "code/raw/segment5.txt",
         "start": {
             "i": 251,
-            "n": "Tallgrass Prairie National Preserve"
+            "n": "Badlands National Park"
         }
     },
     {
-        "file": "code/raw/segment6.txt",
         "end": {
             "i": 350,
-            "n": "Monocacy National Battlefield"
+            "n": "Hopewell Culture National Historical Park"
         },
+        "file": "code/raw/segment6.txt",
         "start": {
             "i": 301,
-            "n": "Salem Maritime National Historic Site"
+            "n": "Big Cypress National Preserve"
         }
     },
     {
-        "file": "code/raw/segment7.txt",
         "end": {
-            "i": 380,
-            "n": "Lincoln Memorial"
+            "i": 381,
+            "n": "Washington Monument"
         },
+        "file": "code/raw/segment7.txt",
         "start": {
             "i": 351,
-            "n": "Monocacy National Battlefield"
+            "n": "Hopewell Culture National Historical Park"
         }
     }
 ]

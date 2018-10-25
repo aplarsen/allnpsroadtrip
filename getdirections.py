@@ -1,5 +1,6 @@
 import json
 import googlemaps
+from datetime import date
 
 #instantiate Google Maps object
 with open('../apikey.txt', 'r') as apikeyfile:
@@ -29,6 +30,9 @@ d.write("trip\tfrom\tto\tdistance(meters)\n");
 #initialize metadata
 metadata = [];
 
+#set target date for travel as July 1 of next year
+when = date(date.today().year+1,7,1)
+
 for i in range(0, len(optimal_route)-1):
 	#check if first item in segment
 	if (i%segmentsize) == 0:
@@ -39,8 +43,8 @@ for i in range(0, len(optimal_route)-1):
 		metadatum['file'] = "code/raw/segment" + str(filecounter) + ".txt";
 
 	#get routes from Google
-	print(optimal_route[i+1]['n']);
-	routes = mymaps.directions(optimal_route[i]['l'], optimal_route[i+1]['l']);
+	print(f"{optimal_route[i]['n']} to {optimal_route[i+1]['n']}\r\n\thttps://maps.googleapis.com/maps/api/directions/json?origin={optimal_route[i]['l']}&destination={optimal_route[i+1]['l']}&key={apikey}")
+	routes = mymaps.directions(optimal_route[i]['l'], optimal_route[i+1]['l'], departure_time=when);
 
 	#reset distance tally for this trip
 	distbetween = 0;
