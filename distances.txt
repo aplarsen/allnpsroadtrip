@@ -102,8 +102,8 @@ trip	from	to	distance(meters)
 101	Cuyahoga Valley National Park	James A. Garfield National Historic Site	61344
 102	James A. Garfield National Historic Site	Perry's Victory and International Peace Memorial	165230
 103	Perry's Victory and International Peace Memorial	River Raisin National Battlefield Park	107773
-104	River Raisin National Battlefield Park	Indiana Dunes National Lakeshore	366242
-105	Indiana Dunes National Lakeshore	Pullman National Monument	62628
+104	River Raisin National Battlefield Park	Indiana Dunes National Park	366242
+105	Indiana Dunes National Park	Pullman National Monument	62628
 106	Pullman National Monument	Sleeping Bear Dunes National Lakeshore	527843
 107	Sleeping Bear Dunes National Lakeshore	Pictured Rocks National Lakeshore	444589
 108	Pictured Rocks National Lakeshore	Isle Royale National Park	263966

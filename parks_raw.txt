@@ -183,7 +183,7 @@
 37.3839	-109.077	Hovenweep National Monument
 35.7256	-109.593	Hubbell Trading Post National Historic Site
 39.9478	-75.1481	Independence National Historical Park
-41.6481	-87.1081	Indiana Dunes National Lakeshore
+41.6481	-87.1081	Indiana Dunes National Park
 47.1227503	-88.5641117	Isle Royale National Park
 41.6622	-81.3472	James A. Garfield National Historic Site
 29.9425	-89.9942	Jean Lafitte National Historical Park and Preserve
