@@ -282,7 +282,7 @@
 44.0133	-96.325	Pipestone National Monument
 38.6786	-77.0928	Piscataway Park
 38.0439756	-122.7983975	Point Reyes National Seashore
-38.0575	-122.03	Port Chicago Naval Magazine National Memorial
+38.045283	-122.031589 Port Chicago Naval Magazine National Memorial
 38.904	-77.0586	Potomac Heritage National Scenic Trail
 32.6367	-91.4114	Poverty Point National Monument
 33.6672	-93.5965	President William Jefferson Clinton Birthplace Home National Historic Site
@@ -379,3 +379,4 @@
 33.6581	-85.8312	Freedom Riders National Monument
 32.3896	-80.5757	Reconstruction Era National Monument
 37.7968	-84.6008	Camp Nelson National Monument
+41.9688	-121.568	Tule Lake National Monument
